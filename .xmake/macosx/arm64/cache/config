@@ -1,0 +1,12 @@
+{
+    mtimes = {
+        ["xmake.lua"] = 1767295574
+    },
+    options = {
+        builddir = "/Users/justinbouchard/Library/Developer/Xcode/DerivedData/freeboard-fftxzfchgfdwsjcckruwrirymkkv/Build/Products",
+        arch = "arm64",
+        plat = "macosx",
+        mode = "debug"
+    },
+    recheck = false
+}
